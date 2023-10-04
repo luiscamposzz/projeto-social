@@ -1,0 +1,28 @@
+
+*{
+  padding: 0px;
+  margin: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+  width: 100vw;
+}
+
+a{
+  display: block;
+  background-color: darkred;
+  color: white;
+  text-decoration: none;
+  text-align: center;
+  padding: 10px;
+
+}
+
+a:hover{
+  background-color: rgba(253, 6, 6, 0.904);
+}
+
+a:active{
+  background-color: rgb(136, 32, 32);
+}
